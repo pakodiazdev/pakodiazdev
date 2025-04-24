@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Pako Díaz
-### 👨‍💻 < Software Full Stack Developer /> 💻
+### 👨‍💻 < Computer Systems Engineer & Full Stack Developer /> 💻 Over 15 years of experience
 
 🔄 Backend [MySQL, PSQL, MSSQL, MongoDB] and Frontend [Vue, React] Lover  
 📱 Mobile too — one repo, many screens 😏  
@@ -11,12 +11,13 @@
 
 🌐 [pakodiaz.dev](https://pakodiaz.dev)  
 ```js 
-const at = '@'`, `const dot = '.'
-
-const 📬 = `me${at}pakodiaz${dot}dev`
+const at = '@'
+const dot = '.'
+const 📬 = `me${at}pakodiaz${dot}dev` // ✉️ let's connect
 
 ```
-
+🎧 Currently coding with:
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=fcodiazmx)
 ---
 
 ## 🔧 Tech Stack
