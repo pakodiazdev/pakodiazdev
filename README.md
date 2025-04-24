@@ -10,17 +10,6 @@
 🎧 Coding with rock in the background  
 
 🌐 [pakodiaz.dev](https://pakodiaz.dev)  
-```js 
-const at = '@'
-const dot = '.'
-const 📬 = `me${at}pakodiaz${dot}dev` // ✉️ let's connect
-
-```
-🎧 Currently coding with:
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fcodiazmx&unique={true|1|on|yes})
-
----
 
 ## 🔧 Tech Stack
 
@@ -62,5 +51,15 @@ _Coming soon... or check out [pakodiaz.dev](https://pakodiaz.dev)_
 
 ## 🤘 About
 > I build, automate, and ship with code. I believe in clean solutions, reusability, and caffeine.
+```js 
+const at = '@'
+const dot = '.'
+const 📬 = `me${at}pakodiaz${dot}dev` // ✉️ let's connect
 
+```
+🎧 Currently coding with:
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fcodiazmx&unique={true|1|on|yes})
+
+---
 Rock on. 🎸
