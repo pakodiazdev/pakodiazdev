@@ -17,7 +17,9 @@ const 📬 = `me${at}pakodiaz${dot}dev` // ✉️ let's connect
 
 ```
 🎧 Currently coding with:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fcodiazmx)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fcodiazmx&unique={true|1|on|yes})
+
 ---
 
 ## 🔧 Tech Stack
